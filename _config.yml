@@ -6,19 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: WFH Mommy Reviews
 
 # Your name to show in the footer
-author: Some Person
+author: wfh-mm-reviews
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Social Media:
+    - Instagram: "https://www.instagram.com/wfh_mommy_reviews/"
+  Contact: "contactinfo"
 
 # --- Logo --- #
 
